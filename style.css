@@ -1,0 +1,39 @@
+body {
+  font-size: 100%;
+}
+
+#heading {
+  color: black;
+  padding: 1em;
+  margin-bottom: 5%;
+  font-family: 'Homemade Apple', cursive;
+}
+
+#heading h1{ 
+  font-size: 5em;
+  margin: 0;
+  margin-bottom: .5em;
+  
+}
+#tabContainer {
+	width:30%;
+	
+}
+#tabContainer a {
+	display: inline-block;
+	width:22%;
+	text-decoration: none;
+	padding-left: 2%;
+	padding-top: 5%;
+	margin: .1em;
+	font-family: 'Give You Glory', cursive;
+	color: black;
+}
+
+#tabContainer a:hover {
+	color: darkgray;
+}
+
+
+
+

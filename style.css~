@@ -1,0 +1,70 @@
+body {
+  font-size: 100%;
+  font-family: 'Lato', sans-serif;
+  background-color: gainsboro;
+}
+
+
+#container {
+  margin: 0 7.5%;
+}
+
+#heading {
+  background-color: darkred;
+  color: gold;
+  padding: 1em;
+  border-radius: 1em;
+  margin-bottom: 5%;
+
+}
+
+#contentRow {
+  overflow: auto;
+  width: 100%;
+  background-color: white;
+  border-radius: 1em;
+}
+
+#heading h1{ 
+  font-size: 3em;
+  margin: 0;
+  margin-bottom: .5em;
+}
+
+#heading h2{ 
+  margin: 0;
+}
+
+.homepageContent {
+  float: left;
+  width: 33.333%; 
+}
+
+.bottomMenu {
+  float: left;
+  width: 44%;
+  background-color: darkred;
+  color: gold;
+  padding: 3%;
+  font-size: 1.1em;
+}
+
+.homeBox {
+   height: 20em;
+   padding: 0 3%;
+   overflow: auto;
+}
+
+.homeBox p {
+  margin: 0;
+  padding: 0;
+}
+
+.homepageContent h3 {
+  background-color: darkred;
+  color: gold;
+  margin-bottom: .25em;
+  margin-top: 0;
+  padding: 3%;
+}
+

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Tina Cifferello</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="container">
+	<div id="heading">
+		<h1>Tina Cifferello</h1>
+	</div>
+</div>
+<div id="exercise1" class="exercise">
+	<div id="tabContainer">
+		<a href="About.html">About</a><a href="Blog.html">Blog</a><a href="Store.html">Store</a><a href="Archives.html">Archives</a>
+	</div>
+</div>
+		
+</div>
+</html>	
