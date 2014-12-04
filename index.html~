@@ -8,16 +8,17 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="container">
-	<div id="heading">
+<div id="homepageContent"class="home">
+<div id="heading"class="home">
 		<h1>Tina Cifferello</h1>
 	</div>
 </div>
-<div id="homepageContent">
-	<div id="tabContainer">
+
+<div id="tabContainer">
 		<a href="bio.html">Bio</a><a href="resume.html">Resume</a><a href="skills.html">Skills</a><a href="portfolio.html">Portfolio</a><a href="contact.html">Contact</a>
 	</div>
 </div>
 		
 </div>
+</section>
 </html>	
