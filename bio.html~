@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>About Me</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Laila' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div class="bio">
+<div id="bio">
+	<div id="bioheading">
+		<h1>ABOUT TINA</h1>
+		<h2><i>a look into my past, present and future goals</i></h2>
+	</div>
+	<div id="bio">
+		<div id="whoami" class="biocontent">
+			<h1><b>Who Am I?</b></h1>
+			<div class="bioBox">
+			<h2>I am a student.</h2>
+			<p>I am a 20 year-old college senior, finishing my last year as a Hawk at Saint Joesph's University.</p>
+			<h2>I am a daughter and a sister.</h2>
+			<p>I am the youngest member of my family of five, with two older sisters who are 23 and 25.</p> 
+			<h2>I am an employee.</h2>
+			<p>For the last four years I have split my time between school and work, and spend my free time working with animals at Cleopetra's Grooming.</p>
+			<h2>I am a friend.</h2>
+			<p>As an extremely social person, I love to meet new people and form new relationships</p>
+			</div>
+			
+		</div>
+		<div id="whereamifrom" class="biocontent">
+			<h1><b>Where Am I From?</b></h1>
+			<div class="bioBox"><p></p>
+			<h2>Pennsylvania</h2>
+			<p>I currently live in West Chester, PA. 
+			<h2>Virginia</h2>
+			<p>I was born in Chantilly, Virginia and lived there for ten years before my family moved.</p>
+		</div>
+		</div>
+		<div id="whereamigoing" class="biocontent">
+			<h1><b>Where Am I going?</b></h1>
+			<div class="bioBox"><p></p>
+			<h2>California</h2>
+			<p>I plan on moving to California after graduation to attend Graduate school.<p>
+		</div>	
+		</div>
+	</div>
+</div>
+</div>
+</body>
+</html>	

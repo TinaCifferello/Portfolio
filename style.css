@@ -1,20 +1,23 @@
 body {
+  
   font-size: 100%;
-  background-image: url("carspic.jpg");
-}
+  font-family: 'Laila', serif;
 
+}
+.homepageContent  {
+  background: url("carspic.jpg");
+  
+}
 #heading {
-  color: black;
-  padding: 1em;
-  margin-top: 5%;
-  font-family: 'Euphoria Script', cursive;
+  margin-bottom: 5%;
+  font-family: 'Laila', serif;
 }
 
 #heading h1{ 
-  font-size: 7em;
+  font-size: 4em;
   margin: 0;
-  margin-bottom: 0em;
-  
+  margin-bottom: .5em;
+
 }
 #tabContainer {
 	width:30%;
@@ -27,14 +30,109 @@ body {
 	text-decoration: none;
 	padding-left: 5%;
 	padding-top: 0%;
-	margin: .1em;
-	font-family: 'Give You Glory', cursive;
-	color: black;
+	margin: .3em;
+	
 }
 
 #tabContainer a:hover {
 	color: darkgray;
 }
+
+
+	
+}	
+
+#bioheading {
+  padding: 1em;
+ 
+}
+
+
+#bioheading h1{ 
+  font-size: 3.5em;
+  margin: 0;
+  margin-bottom: 0;
+  color: white;
+}
+
+#bioheading h2{ 
+  font-size:1.5em;
+  color: white;
+}
+.biocontent {
+  border-style: groove;
+  border-radius: 50px;
+  font-family: 'Laila', serif;
+  color: white;
+}
+
+#whoami {
+  width: 31.4%;
+  font-size: 1em;
+  padding: 1em;
+  float: right;
+  margin-right:1.2em;
+}
+#whereamifrom {
+  width: 14%;
+  font-size: 1em;
+  padding: .7em;
+  float: left;
+margin-left:1.2em;
+margin-bottom: .2em;
+}
+#whereamigoing {
+  width:58%;
+  font-size: 1em;
+  float:left;
+  padding: .5em;
+  margin-left:2em;
+  margin-right:1em;
+  margin-top:0em;
+}
+.bioBox {
+	
+}
+
+#socialmedia{
+	margin-left: 2em;
+}
+
+#facebook {
+	text-align: right;
+	
+ 
+}
+#twitter
+#instagram
+#more
+
+.contact {
+ overflow:auto;
+}
+
+
+.resume {
+	font-size: 100%;
+	margin-left: 18%;
+	margin-bottom: 5%;
+	padding: 2em;
+	background:papayawhip;
+	float: center;
+	width: 60%;
+	border-radius: 25px; 
+	border-style: solid;
+	color:saddlebrown;
+}
+#resumeheading {
+	text-align: center;
+}
+
+#resumeheading h1{
+	font-size:2em;
+	font-style: strong;
+}
+
 
 
 

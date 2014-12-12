@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Connect with Tina</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Laila' rel='stylesheet' type='text/css'></head>
+<body>
+<div id="contactinfo">
+
+	<div id="contactpage">
+	<h1><b>Tina's Contact Information</b></h1>
+	</div>
+	
+<div id="socialmedia">
+	<h2>Connect with Me through Social Media</h1>
+	<div id="facebook">
+	<h3>Friend Request Me on Facebook</h3>
+	<p>facebook.com/tina.cifferello</p>
+	</div>
+	
+	<div id="twitter">
+	<h3>Follow Me On Twitter</h3>
+	<p>@tCifferello</p>
+	</div>
+	
+	<div id="instagram">
+	<h3>Follow me on Instagram</h3>
+	<p>@tinaciff</p>
+	</div>
+	
+	<div id="more">
+	<h3>Telephone and Email Address</h3>
+	<p>610-420-2091</p>
+	<p>tc568665@sju.edu</p>
+</div>
+</div>
+</body>
+</html>

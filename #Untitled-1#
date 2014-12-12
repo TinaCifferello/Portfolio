@@ -1,0 +1,24 @@
+.biocontent {
+  float: left;
+  width: 33.333%; 
+}
+
+.bioBox {
+   height: 20em;
+   padding: 0 3%;
+   overflow: auto;
+}
+
+.bioBox p {
+  margin: 0;
+  padding: 0;
+}
+
+.biocontent h3 {
+  background-color: midnightblue;
+  color: snow;
+  margin-bottom: .25em;
+  margin-top: 0;
+  padding: 3%;
+}
+

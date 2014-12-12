@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {
+	background:
+</style>
+<title>Connect with Tina</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Laila' rel='stylesheet' type='text/css'></head>
+<body>
+<div id="contactinfo">
+
+	<div id="contactpage">
+	<h1><b>Tina's Contact Information</b></h1>
+	</div>
+	
+<div id="socialmedia"class="contact">
+	<h2>Connect with Me through Social Media</h2>
+	<div id="facebook">
+	<h3>Friend Request Me on Facebook</h3> <img src="fbdone.jpg"style="float:left;"/>
+	<p>facebook.com/tina.cifferello</p>
+	</div>
+	
+	<div id="twitter">
+	<h3>Follow Me On Twitter</h3>
+	<img src="twitterdone.jpg"style="float:right;"/>
+	<p>@tCifferello</p>
+	</div>
+	
+	<div id="instagram">
+	<h3>Follow me on Instagram</h3><img src="instagramdone.jpg"style="float:left;"/>
+	<p>@tinaciff</p>
+	</div>
+	
+	<div id="more">
+	<h3>Telephone and Email Address</h3>
+	<p>610-420-2091</p>"<img src="phonedone.jpg" style="float:right;"/>
+	<p>tc568665@sju.edu</p><img src="maildone.jpg"style="float:left;"/>
+</div>
+</div>
+</body>
+</html>
+
+#contantpage {
+
+	padding: 2em;
+	text-align: left;
+	color: white;
+}
+
+
